@@ -23,7 +23,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 ```yaml
 name: Vivek Jadhav
@@ -35,15 +35,19 @@ mode: Learn by building real products
 ```
 
 </td>
-<td width="40%" valign="top">
+<td width="45%" valign="top">
 
-🔭 **Working on** — full-stack MERN apps built for performance & scale
+🔭 **Working on**<br/>Full-stack MERN apps built for performance, scalability & clean UI
 
-👯 **Collaborating on** — web apps, social products & frontend projects
+👯 **Looking to collaborate on**<br/>Innovative web apps, social-media products & impactful frontend projects
 
-🤝 **Seeking help with** — system design, backend scalability, production practices
+🤝 **Looking for help with**<br/>Advanced system design, backend scalability & real-world production practices
 
-💬 **Ask me about** — React, JavaScript, MERN, frontend architecture
+🌱 **Currently learning**<br/>DSA, backend development & core MERN concepts
+
+💬 **Ask me about**<br/>React, JavaScript, MERN stack, frontend architecture & real-world projects
+
+⚡ **Fun fact**<br/>Mechanical engineer turned developer who learns by building 🚀
 
 </td>
 </tr>
@@ -70,8 +74,11 @@ mode: Learn by building real products
 <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white"/>
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Context_API-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 
 </div>
 
@@ -80,18 +87,21 @@ mode: Learn by building real products
 <!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
 ## 🚀 Featured Projects
 
-> 🔧 Replace `YOUR_REPO_1` / `YOUR_REPO_2` with your actual repo names.
-
 <div align="center">
 
-<a href="https://github.com/VivekJadhav2001/YOUR_REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VivekJadhav2001&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" width="48%"/>
+<a href="https://github.com/VivekJadhav2001/Dev-Arena">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VivekJadhav2001&repo=Dev-Arena&theme=tokyonight&hide_border=true&show_owner=false" width="48%" alt="Dev-Arena"/>
 </a>
-<a href="https://github.com/VivekJadhav2001/YOUR_REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VivekJadhav2001&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" width="48%"/>
+<a href="https://github.com/VivekJadhav2001/The-Code-Alchemist">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VivekJadhav2001&repo=The-Code-Alchemist&theme=tokyonight&hide_border=true&show_owner=false" width="48%" alt="The-Code-Alchemist"/>
 </a>
 
 </div>
+
+| Project | What it is | Links |
+|---|---|---|
+| ⚔️ **Dev-Arena** | Developer proof-of-skill platform — animated GitHub stats profile card, live 1v1 coding battles, badges & leaderboard | [Repo](https://github.com/VivekJadhav2001/Dev-Arena) |
+| 🧪 **The-Code-Alchemist** | Turning raw code ideas into polished products | [Repo](https://github.com/VivekJadhav2001/The-Code-Alchemist) |
 
 <br/>
 
@@ -101,7 +111,7 @@ mode: Learn by building real products
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=VivekJadhav2001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekJadhav2001&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekJadhav2001&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&include_all_commits=true&count_private=true" />
 
 <br/>
 
@@ -119,16 +129,18 @@ mode: Learn by building real products
 
 <br/>
 
-<!-- ═══════════════ QUOTE ═══════════════ -->
+<!-- ═══════════════ QUOTE + FOOTER ═══════════════ -->
 <div align="center">
 
-### ✍️ Dev Quote
+### ✍️ Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-<br/>
+<br/><br/>
 
 **⭐ If you like what you see, drop a star on a repo — let's build something together!**
+
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=VivekJadhav2001&icon=0&color=0" alt="visits"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
 
